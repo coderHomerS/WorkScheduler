@@ -1,4 +1,8 @@
 # WorkScheduler
 <h1>A small app to set up a daily work schedule from 9am to 5pm</h1> 
-<h2  hhref="https://raw.githack.com/coderHomerS/WorkScheduler/main/WorkScheduler/index.html"> Click here for live demo</h2>
-![192 168 86 226_5500_WorkScheduler_index html](https://github.com/coderHomerS/WorkScheduler/assets/134756869/ade54b1b-ea48-46df-9f12-28c73b7587ac)
+<a href="https://raw.githack.com/coderHomerS/WorkScheduler/main/WorkScheduler/index.html"> Click here for live demo </a>
+
+
+
+
+![192 168 86 226_5500_WorkScheduler_index html](https://github.com/coderHomerS/WorkScheduler/assets/134756869/3093c708-c20f-44c6-b5b9-f54fed9238ad)
